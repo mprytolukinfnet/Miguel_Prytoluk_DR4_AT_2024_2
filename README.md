@@ -84,7 +84,7 @@ pip install faiss-gpu-cu12==1.9.0.post1
 
 ### 5. Variáveis de ambiente
 
-Criar um arquivo `.env` na raiz do projeto contendo sua chave de API Open AI no formato:
+Criar um arquivo `.env` na raiz do projeto contendo sua chave de API Gemini no formato:
 ```env
 GEMINI_API_KEY=chave-gemini
 ```
